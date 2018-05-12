@@ -1,0 +1,31 @@
+_repo: Mrs.-Vanderstein-s-jewels_42813
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42813-h/images/illus_front_cover.jpg
+creator:
+  author:
+    agent_name: Bryce, Charles, Mrs.
+    alias: Bryce, Mrs. Charles
+    gutenberg_agent_id: '3129'
+    url: http://www.gutenberg.org/2009/agents/3129
+description: The society doyenne Mrs. Vanderstein is known far and wide for her vast
+  collection of breathtaking jewelry. On one trip to the opera, she bedecks herself
+  in a staggering array of finery in order to impress the Queen, who is also rumored
+  to attend -- and she falls prey to a nefarious scheme. Fans of classic detective
+  tales will appreciate this tightly constructed mystery.
+gutenberg_issued: '2013-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Jewel thieves -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Fiction'
+title: Mrs. Vanderstein's jewels
+url: http://www.gutenberg.org/ebooks/42813
